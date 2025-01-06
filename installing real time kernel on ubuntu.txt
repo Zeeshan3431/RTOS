@@ -1,0 +1,16 @@
+go to website 
+
+https://ubuntu.com/real-time
+
+now write this command on terminal
+
+pro attach
+
+after running this command you will get a code and a link to website, on that link you have to create your ubuntu account and then paste  the copied link when they asked
+
+sudo apt install ubuntu-pro-client
+
+sudo pro enable realtime-kernel
+
+reboot it 
+
